@@ -4,6 +4,8 @@ import {SafeAreaView, Text} from 'react-native';
 import messaging from '@react-native-firebase/messaging';
 import MyComponent from './Table';
 
+//react-push-notification example from Firebase
+
 const App = () => {
   const getFCMToken = async () => {
     try {

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754170907395",
+    "project_id": "react-push-notification-e94f7",
+    "storage_bucket": "react-push-notification-e94f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754170907395:android:8b86336f580af5ea8db736",
+        "android_client_info": {
+          "package_name": "com.rntestingproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754170907395-qmqqr5a2iqj3l6fde4oqo677mlb1uqoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkjYWCWQbFWPchYIGY5x4vGN7Eg1mq2us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754170907395-qmqqr5a2iqj3l6fde4oqo677mlb1uqoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
